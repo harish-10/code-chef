@@ -1,0 +1,12 @@
+
+public class ChefAndString {
+
+	public static void main(String[] args) {
+		
+		String s="xyxxy";
+		String [] x= s.split("xy");
+		System.out.println(x.toString());
+
+	}
+
+}
