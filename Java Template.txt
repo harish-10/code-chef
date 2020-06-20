@@ -1,0 +1,19 @@
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+class Codechef
+{
+	public static void main (String[] args) throws java.lang.Exception
+	{
+		java.io.BufferedReader r = new java.io.BufferedReader (new java.io.InputStreamReader (System.in));
+		
+		int t = Integer.parseInt(r.readLine());
+		while(t> 0){
+		 
+		 
+		 
+		  t--;  
+		}
+	}
+}
